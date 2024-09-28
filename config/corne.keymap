@@ -14,7 +14,7 @@
 
         default_layer {
             // -----------------------------------------------------------------------------------------
-            // |  ESC |  Q  |  W  |  E  |  R  |  T  |   |  Y  |  U   |  I  |  O  |  P  | LEFT_BRACE |
+            // |  ESC  |  Q  |  W  |  E  |  R  |  T  |   |  Y  |  U   |  I  |  O  |  P  | LEFT_BRACE |
             // | LCTRL |  A  |  S  |  D  |  F  |  G  |   |  H  |  J   |  K  |  L  |  ;  |  '   |
             // | LSHFT |  Z  |  X  |  C  |  V  |  B  |   |  N  |  M   |  ,  |  .  |  /  | RSHFT  |
             //                    | LEFT_ALT | LWR | TAB |   | MO1 | SPACE  | BACKSPACE |
